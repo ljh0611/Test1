@@ -25,12 +25,10 @@ public class Test : MonoBehaviour
 
         //그그 최신본을 푸쉬한다
 
-        Debug.Log ("한달 지나서 까먹었다");
-        Debug.Log ("지금 자다 일어나서 다시 강의 보면서 공부함");
-        Debug.Log("이렇게 하는게 맞냐? 죽것다");
+       
         //이것도 추가되
 
-        Debug.Log(" 빨리 코드 작성해야 한다");
+        Debug.Log("Hello");
     }
 
     
