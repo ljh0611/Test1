@@ -19,7 +19,7 @@ public class Test : MonoBehaviour
         Debug.Log("이렇게 하는게 맞냐? 죽것다");
         //이것도 추가되
 
-
+        Debug.Log(" 빨리 코드 작성해야 한다");
     }
 
     
